@@ -1,0 +1,14 @@
+email: luis@thelowcarbdude.com
+fullname: Luis
+title: 'The Lowcarb Dude'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$YxlHcfQBxB2tHss7QCzxEOXQ7bQenPPmcu19dkMbekiin3x8I3tgK
+language: en
+login_attempts: {  }
+twofa_secret: U76532FVL6DSC7YWIQGDW625NMKMTQO3
